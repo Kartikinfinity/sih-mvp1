@@ -3,3 +3,5 @@ pandas
 numpy
 plotly
 skyfield
+opencv-python-headless
+
